@@ -1,0 +1,27 @@
+.head{
+    background-image: url(../img/headcov.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60vh;
+    display: flex;
+    height: 70vh;
+}
+.headco{padding-top: 85px; text-align: center;}
+.headco h2{font-size: 15px; font-weight: 600; color: rgb(134, 132, 128);}
+.headco h1{font-size: 47px ; font-weight: bold; color: #fff; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; padding: 2px 0px;}
+.headco h3{color: #ed4251; font-weight: 900; font-size: 30px; }
+.headco button{padding: 5px 15px; margin: 22px 8px; font-size: 16px; border-radius: 30px; border: none;} 
+.headco button:hover{background-color: #ff3f4e; color: #fff; border: none; }
+.aboutme{background-color: rgb(243, 238, 231);}
+.abouti ,.aboutco{padding-top: 75px;}
+.aboutco h4{color: rgba(106,206,213,255); font-size: 19px; font-weight: 400;}
+.aboutco h3{font-size: 32px ; font-weight: 800;}
+.aboutco p{color: #807a7a; font-size: 25px; padding: 12px 0px ;}
+.aboutco button{padding: 5px 15px; border: none; border-radius: 12px; font-weight: 900; margin-bottom: 80px;}
+.hwork{padding-top: 80px; }
+.hwork h3{font-size: 19px; font-family: serif;}
+.hwork h2{color: #2e2d2d; font-size: 32px;}
+.row{padding: 16px 0px; }
+.work{margin-bottom:30px;}
+.end{background-color: rgb(243, 234, 220);}
+.fa-telegram , .fa-instagram{ padding: 0px 10px ;}
